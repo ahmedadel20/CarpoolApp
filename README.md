@@ -1,2 +1,2 @@
-# Carpooling
+# Pooly
 A Carpooling java application.
